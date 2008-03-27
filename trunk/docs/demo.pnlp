@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pnlp codebase="/">
+    <resources>
+        <package href="demo.py" />
+    </resources>
+  <application-desc main-file="demo.py" />
+</pnlp>
